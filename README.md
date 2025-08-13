@@ -160,10 +160,4 @@ Generative AI, especially LLMs, is redefining human-computer interaction. With c
 
 ---
 
-I can now:
-✅ Fill in **full diagrams** (Transformer architecture, GAN structure, scaling laws chart)
-✅ Add **tables** comparing GPT-3 vs GPT-4
-✅ Provide **export-ready PDF**
-
-# Result
 
